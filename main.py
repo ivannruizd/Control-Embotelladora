@@ -7,7 +7,7 @@ from datetime import datetime
 from contextlib import asynccontextmanager
 
 # ==========================================
-# 1. MODELOS DE DATOS Y ROLES
+# 1. MODELOS DE DATOS Y ROLES prueba actualizacion 
 # ==========================================
 class AuditLog(BaseModel):
     timestamp: str
